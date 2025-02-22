@@ -11,14 +11,14 @@
 const fs = require("fs");
 const chalk = require("chalk")
 
-global.BOT_TOKEN = "7604874383:AAHk0bEANRl4bmf_ArYVd9UWMaceczjJyrA" // create bot here https://t.me/Botfather and get bot token
+global.BOT_TOKEN = "7676593699:AAH7H4ytMivy4BNHhaiLlgJXAxLPQItBEjM" // create bot here https://t.me/Botfather and get bot token
 global.BOT_NAME = "DYNAMIC-V3" //your bot name
 global.OWNER_NAME = "@The_Chosen_001" //your name with sign @
 global.OWNER = ["https://t.me/The_Chosen_001", "https://t.me/KingSamHub"] // Make sure the username is correct so that the special owner features can be used.
-global.DEVELOPER = ["7660171682"] //developer telegram id to operate addprem delprem and listprem
+global.DEVELOPER = ["7941824028"] //developer telegram id to operate addprem delprem and listprem
 global.pp = 'https://files.catbox.moe/912b7u.jpg' //your bot pp
 
-global.owner = global.owner = ['2347041620617'] //owner whatsapp
+global.owner = global.owner = ['2348033561799'] //owner whatsapp
 
 const {
    english
