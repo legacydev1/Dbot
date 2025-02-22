@@ -8,8 +8,8 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "2347041620617"
-global.owner = ["2347041620617"]
+global.ownernomer = "2348033561799"
+global.owner = ["2348033561799"]
 global.ownername = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
